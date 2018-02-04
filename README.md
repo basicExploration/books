@@ -1,2 +1,2 @@
 # books
-一些围绕着javascript的中文书籍，格式是 pdf
+一些编程书籍，格式是 pdf有 go js c++ Java 等。
